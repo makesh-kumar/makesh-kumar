@@ -6,9 +6,9 @@
 
 
 ##### Connect with me:
-[<img align="left" alt="makesh.in" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/earth-globe-svgrepo-com.svg" />][website]
+[<img align="left" alt="makesh.in" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/globe-svgrepo-com.svg" />][website]
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/linkedin-svgrepo-com%20(1).svg" />][linkedin]
-
+[<img align="left" alt="Gmail" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/google-gmail-svgrepo-com.svg" />][mail]
 [<img align="left" alt="codePen" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/codepen-svgrepo-com.svg" />][codepen]
 [<img align="left" alt="Twitter" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/317720_social%20media_tweet_twitter_social_icon.svg" />][twitter]
 
@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: http://makesh.in
-[twitter]: https://twitter.com/this_is_makesh
+[website]: http://makesh.in/
+[twitter]: https://twitter.com/this_is_makesh/
 [linkedin]: https://linkedin.com/in/makesh-kumar/
 [codepen]: https://codepen.io/makesh-kumar/
+[mail]: mailto:mynameismakesh@gmail.com/
