@@ -8,7 +8,7 @@
 
 
 ## Connect with me:
-[<img align="left" alt="makesh.in" width="25px" src="https://www.svgrepo.com/download/20626/twitter.svg" />][website]
+[<img align="left" alt="makesh.in" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/317720_social%20media_tweet_twitter_social_icon.svg" />][website]
 [<img align="left" alt="Twitter" width="25px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/ios-filled/250/4a90e2/linkedin.png" />][linkedin]
 
