@@ -32,11 +32,14 @@
 
 #### Top Repositories
 
-<a href="https://github.com/makesh-kumar/github-readme-stats">
+<a href="https://github.com/makesh-kumar/covid-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=covid-tracker&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=new-reader-app&theme=buefy" />
+<a href="https://github.com/makesh-kumar/online-news-app-in-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=online-news-app-in-react&theme=buefy" />
+</a>
+<a href="https://github.com/makesh-kumar/digital-calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=digital-calculator&theme=buefy" />
 </a>
 
 <br />
