@@ -30,6 +30,20 @@
 | ------------- | ------------- |
 
 
+#### Top Repositories
+
+<a href="https://github.com/makesh-kumar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=covid-tracker&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=new-reader-app&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
 <!--
 **makesh-kumar/makesh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
