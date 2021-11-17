@@ -3,7 +3,7 @@
 <br />
 
 ##### My Skills :
-<img align="left" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
+<img align="left" style:"cursor:default" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
 <img align="left" alt="typescript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/typescript-logo-svgrepo-com.svg" />
 <img align="left" alt="html5" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/html5-svgrepo-com.svg" />
 <img align="left" alt="css3" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/css3-svgrepo-com.svg" />
