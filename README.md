@@ -1,7 +1,6 @@
-##### Hi 👋 there, My Name is Makesh, I'm an Engineering graduate and a web developer with 2 years of experience in the IT industry, I'm very much passionate about developing web applications with a nice and cool user interface using modernJavascript frameworks like Angular, React.
+### Hi 👋 there, My Name is Makesh, I'm an Engineering graduate and a web developer with 2 years of experience in the IT industry, I'm very much passionate about developing web applications with a nice and cool user interface using modernJavascript frameworks like Angular, React.
 
 <br />
-
 ##### My Skills :
 <img align="left" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
 <img align="left" alt="typescript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/typescript-logo-svgrepo-com.svg" />
@@ -12,13 +11,7 @@
 <img align="left" alt="nodejs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/nodejs-icon-svgrepo-com.svg" />
 <!-- <img align="left" alt="expressjs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/codepen-svgrepo-com.svg" /> -->
 
-
-
 <br />
-
-
-
-
 ##### Connect with me:
 [<img align="left" alt="makesh.in" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/globe-svgrepo-com.svg" />][website]
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/linkedin-svgrepo-com%20(1).svg" />][linkedin]
