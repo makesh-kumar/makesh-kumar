@@ -4,7 +4,7 @@
 
 ## Connect with me:
 [<img align="left" alt="makesh.in" width="25px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.svg" />][website]
-[<img align="left" alt="Twitter" width="25px" src="https://img.icons8.com/ios-glyphs/24/4a90e2/twitter.png" />][twitter]
+[<img align="left" alt="Twitter" width="25px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/ios-filled/250/4a90e2/linkedin.png" />][linkedin]
 
 <!--
