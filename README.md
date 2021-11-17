@@ -3,10 +3,9 @@
 <br />
 
 ### Connect with me:
-
-[<img align="left" alt="makesh.in" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.png" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="makesh.in" width="25px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.png" />][website]
+[<img align="left" alt="Twitter" width="25px" src="https://img.icons8.com/ios-glyphs/24/4a90e2/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/ios-glyphs/24/4a90e2/linkedin.png" />][linkedin]
 
 <!--
 **makesh-kumar/makesh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
