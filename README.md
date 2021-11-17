@@ -2,6 +2,20 @@
 
 <br />
 
+##### My Skills :
+<img align="left" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
+<img align="left" alt="typescript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/typescript-logo-svgrepo-com.svg" />
+<img align="left" alt="html5" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/html5-svgrepo-com.svg" />
+<img align="left" alt="css3" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/css3-svgrepo-com.svg" />
+<img align="left" alt="react" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/react-svgrepo-com.svg" />
+<img align="left" alt="angular" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/angular-svgrepo-com.svg" />
+<img align="left" alt="nodejs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/nodejs-icon-svgrepo-com.svg" />
+<!-- <img align="left" alt="expressjs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/codepen-svgrepo-com.svg" /> -->
+
+
+
+<br />
+
 
 
 
