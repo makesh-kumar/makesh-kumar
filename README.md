@@ -1,6 +1,6 @@
  <font size="4"> This is my text number 4</font> 
   <font size="8"> This is my text number 4</font> 
-  <p style="font-family: times, serif; font-size:11pt; font-style:italic">
+  <p style="font-family: times, serif; font-size:19pt; font-style:italic">
     Why did we use these specific parameters during the calculation of the fingerprints?
 </p>
 
