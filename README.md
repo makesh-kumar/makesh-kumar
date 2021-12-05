@@ -44,7 +44,9 @@
 <a href="https://github.com/makesh-kumar/to-do-application-angular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=to-do-application-angular&theme=buefy" />
 </a>
-
+<a href="https://github.com/makesh-kumar/to-do-application-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=text-to-speech-convertor&theme=buefy" />
+</a>
 
 <br />
 <br />
