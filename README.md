@@ -1,4 +1,12 @@
-### Hi 👋 there, My Name is Makesh, I'm an Engineering graduate and a web developer with 2 years of experience in the IT industry, I'm very much passionate about developing web applications with a nice and cool user interface using modern Javascript frameworks like Angular, React.
+### Hi 👋 there, My Name is Makesh, I’m an Engineer and a software developer with 2.6 years of working experience in the IT industry. I have a great passion for building web applications with cool user interfaces by writing clean and efficient code using Javascript frameworks like Angular and React.
+
+
+My Skills :
+Javascript, Typescript, HTML5 , CSS3 ( Less, Scss) with BEM Standards,
+Angular 2+ , React
+Bootstrap, Angular Material, Material UI,
+NodeJs, ExpressJs,
+
 
 <br />
 
