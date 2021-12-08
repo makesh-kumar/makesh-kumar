@@ -3,7 +3,7 @@
 
 My Skills :
 Javascript, Typescript, HTML5 , CSS3 ( Less, Scss) with BEM Standards,
-Angular 2+ , React
+Angular 2+ , React,
 Bootstrap, Angular Material, Material UI,
 NodeJs, ExpressJs,
 
