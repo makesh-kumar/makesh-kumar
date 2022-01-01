@@ -22,8 +22,11 @@ NodeJs, ExpressJs,
 <img align="left" alt="less" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/less-svgrepo-com.svg" />
 <img align="left" alt="scss" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/scss-svgrepo-com.svg" />
 
-<img align="left" alt="react" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/react-svgrepo-com.svg" />
+<img align="left" alt="rxjs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/badge.svg" />
+
 <img align="left" alt="angular" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/angular-svgrepo-com.svg" />
+<img align="left" alt="react" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/react-svgrepo-com.svg" />
+
 
 
 <img align="left" alt="jasmine" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/jasmine-svgrepo-com.svg" />
