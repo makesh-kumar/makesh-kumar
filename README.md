@@ -14,11 +14,14 @@ NodeJs, ExpressJs,
 
 <img align="left" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
 <img align="left" alt="typescript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/typescript-logo-svgrepo-com.svg" />
+<br/>
 <img align="left" alt="html5" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/html5-svgrepo-com.svg" />
 <img align="left" alt="css3" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/css3-svgrepo-com.svg" />
+<img align="left" alt="bootstrap" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/bootstrap-svgrepo-com.svg" />
+<br/>
 <img align="left" alt="react" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/react-svgrepo-com.svg" />
 <img align="left" alt="angular" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/angular-svgrepo-com.svg" />
-<img align="left" alt="bootstrap" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/bootstrap-svgrepo-com.svg" />
+<br/>
 
 <img align="left" alt="jasmine" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/jasmine-svgrepo-com.svg" />
 <img align="left" alt="karma" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/karma-svgrepo-com.svg" />
