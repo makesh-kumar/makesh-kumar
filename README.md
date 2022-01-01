@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-kumar" /> </p>
 ### Hi 👋 there, My Name is Makesh, I’m an Engineer and a software developer with 2.6 years of working experience in the IT industry. I have a great passion for building web applications with cool user interfaces by writing clean and efficient code using Javascript frameworks like Angular and React.
 
 
@@ -39,6 +38,7 @@ NodeJs, ExpressJs,
 | <a href="https://github.com/makesh-kumar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Makesh github stats" /></a> | <a href="https://github.com/makesh-kumar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesh-kumar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-kumar" /> </p>
 
 #### Top Repositories
 
