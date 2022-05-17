@@ -1,4 +1,4 @@
-### Hi 👋 there, My Name is Makesh, I’m an Engineer and a software developer with 2.6 years of working experience in the IT industry. I have a great passion for building web applications with cool user interfaces by writing clean and efficient code using Javascript frameworks like Angular and React.
+### Hi 👋 there, My Name is Makesh, I’m an Engineer and a software developer with 3 years of working experience in the IT industry. I have a great passion for building web applications with cool user interfaces by writing clean and efficient code using Javascript frameworks like Angular and React.
 
 
 My Skills :
