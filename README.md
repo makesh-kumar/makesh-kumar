@@ -21,11 +21,11 @@
   <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="auto" height="40">
  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="auto" height="40">
-  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg width="auto" height="40"">
+  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg width="auto" height="40">
  <img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/r/21/react.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="auto" height="40">
-  </p>
+  
   
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
