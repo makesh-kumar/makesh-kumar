@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makesh</h1>
 <h3 align="center">Frontend developer</h3>
 
-<div align=center style="display: flex;
-    align-items: center;
-    justify-content: end;
-    gap: 10px;">
+<div align=center style="display: flex; align-items: center; justify-content: end; gap: 10px">
 <a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30"></a>
   <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30"></a>
 <a href="https://cdnlogo.com/logo/monogram-medium_42992.html"><img src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" width="30"></a>
