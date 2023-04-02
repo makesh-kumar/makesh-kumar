@@ -3,7 +3,6 @@
 
 <div align=center>
 <a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30"></a>
-
   <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30"></a>
   <a href="https://cdnlogo.com/logo/wordmark-black-medium_50028.html"><img src="https://cdn.cdnlogo.com/logos/w/21/wordmark-black-medium.svg" width="30"></a>
 <a href="https://cdnlogo.com/logo/twitter_38383.html"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="30"></a>
