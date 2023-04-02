@@ -15,9 +15,9 @@
 </div>
 
 
-- 👨‍💻 A passionate Javascript developer specializing in Angular and React with 3+ years of experience
-- 🤝 You can reach me over via [Linkedin](https://linkedin.com/in/makesh-kumar/)
-- ⚡ To read my blogs, checkout [blog.makesh.in](https://blog.makesh.in/)
+- 👨‍💻 A passionate Javascript developer specializing in Angular and React with 3+ years of experience.
+- 🤝 You can reach me over via [Linkedin](https://linkedin.com/in/makesh-kumar/).
+- ⚡ To read my blogs, checkout [blog.makesh.in](https://blog.makesh.in/).
 
 <br>
 
