@@ -1,102 +1,34 @@
-### Hi 👋 there, My Name is Makesh, I’m a passionate Javascript developer specializing in Angular and React with 3+ years of experience.
+<h1 align="center">Hi 👋, I'm Makesh</h1>
+<h3 align="center">Frontend developer</h3>
 
-<br />
+<div align=center>
+  <a href="https://www.linkedin.com/in/makesh-kumar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/makesh"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <br><br>
+ <p><img src="https://komarev.com/ghpvc/?username=makesh-kumar" alt="sadanandpai" /></p>
+</div>
 
-##### My Skills :
+- 👨‍💻 About......
 
-<img align="left" alt="javascript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/javascript-svgrepo-com.svg" />
-<img align="left" alt="typescript" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/typescript-logo-svgrepo-com.svg" />
+- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/makesh-kumar). You can also send me a mail to mynameismakesh@gmail.com
 
-<img align="left" alt="html5" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/html5-svgrepo-com.svg" />
-<img align="left" alt="css3" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/css3-svgrepo-com.svg" />
-<img align="left" alt="bootstrap" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/bootstrap-svgrepo-com.svg" />
+- ⚡ To read my blog post, checkout [FrontendPro](https://blog.makesh.in/)
 
-<img align="left" alt="less" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/less-svgrepo-com.svg" />
-<img align="left" alt="scss" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/scss-svgrepo-com.svg" />
+<br>
 
-<img align="left" alt="rxjs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/badge.svg" />
-<img align="left" alt="redux" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/redux-svgrepo-com.svg" />
-
-
-<img align="left" alt="angular" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/angular-svgrepo-com.svg" />
-<img align="left" alt="react" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/react-svgrepo-com.svg" />
-
-
-
-<img align="left" alt="jasmine" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/jasmine-svgrepo-com.svg" />
-<img align="left" alt="karma" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/karma-svgrepo-com.svg" />
-<img align="left" alt="git" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/git-svgrepo-com.svg" />
-
-<!-- <img align="left" alt="expressjs" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/bootstrap-svgrepo-com.svg" /> -->
-
-<br />
-
-##### Connect with me:
-
-[<img align="left" alt="makesh.in" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/globe-svgrepo-com.svg" />][website]
-[<img align="left" alt="LinkedIn" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/linkedin-svgrepo-com%20(1).svg" />][linkedin]
-[<img align="left" alt="Medium" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/main/medium-icon-svgrepo-com.svg" />][medium]
-[<img align="left" alt="Gmail" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/google-gmail-svgrepo-com.svg" />][mail]
-[<img align="left" alt="codePen" width="25px" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/codepen-svgrepo-com.svg" />][codepen]
-[<img align="left" alt="Twitter" width="25px" color="red" src="https://github.com/makesh-kumar/makesh-kumar/blob/master/317720_social%20media_tweet_twitter_social_icon.svg" />][twitter]
-
-<br />
-<br />
-
-
-| <a href="https://github.com/makesh-kumar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Makesh github stats" /></a> | <a href="https://github.com/makesh-kumar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesh-kumar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makesh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="makesh-kumar" /> </p>
-
-#### Top Repositories
-
-<a href="https://github.com/makesh-kumar/covid-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=covid-tracker&theme=buefy" />
-</a>
-<a href="https://github.com/makesh-kumar/online-news-app-in-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=online-news-app-in-react&theme=buefy" />
-</a>
-<a href="https://github.com/makesh-kumar/digital-calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=digital-calculator&theme=buefy" />
-</a>
-<a href="https://github.com/makesh-kumar/to-do-application-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=to-do-application-angular&theme=buefy" />
-</a>
-<a href="https://github.com/makesh-kumar/text-to-speech-convertor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=makesh-kumar&repo=text-to-speech-convertor&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<p align="center">
+  
+<br>
+  
 <a href="https://github.com/makesh-kumar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesh-kumar&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&theme=radical&line_height=27" alt="Makesh's github stats" />
 </a>
-
-
-<!--
-**makesh-kumar/makesh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[website]: http://makesh.in/
-[twitter]: https://twitter.com/this_is_makesh/
-[linkedin]: https://linkedin.com/in/makesh-kumar/
-[codepen]: https://codepen.io/makesh-kumar/
-[mail]: mailto:mynameismakesh@gmail.com/
-[medium]: https://makesh-kumar.medium.com/
