@@ -2,17 +2,14 @@
 <h3 align="center">Frontend developer</h3>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/makesh-kumar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://www.linkedin.com/in/makesh-kumar/"><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/makesh"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=makesh-kumar" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 About......
+- 👨‍💻 A passionate Javascript developer specializing in Angular and React with 3+ years of experience
 
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/makesh-kumar). You can also send me a mail to mynameismakesh@gmail.com
-
-- ⚡ To read my blog post, checkout [FrontendPro](https://blog.makesh.in/)
 
 <br>
 
