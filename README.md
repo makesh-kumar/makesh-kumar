@@ -2,10 +2,10 @@
 <h3 align="center">Frontend developer</h3>
 
 <div align=center style="display: flex; align-items: center; justify-content: end; gap: 10px">
-<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30"></a>
-  <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30"></a>
-<a href="https://cdnlogo.com/logo/monogram-medium_42992.html"><img src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" width="30"></a>
-  <a href="https://cdnlogo.com/logo/twitter_38383.html"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="30"></a>
+<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30" hspace="10" vspace="10"></a>
+  <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30" hspace="10" vspace="10"></a>
+<a href="https://cdnlogo.com/logo/monogram-medium_42992.html"><img src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" width="30" hspace="10" vspace="10"></a>
+  <a href="https://cdnlogo.com/logo/twitter_38383.html"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="30" hspace="10" vspace="10"></a>
   <br><br>
    <p><img src="https://komarev.com/ghpvc/?username=makesh-kumar" alt="makesh-kumar" /></p>
 
@@ -18,13 +18,13 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40"  hspace="20" vspace="20">
-  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="auto" height="40">
- <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="auto" height="40">
-  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" width="auto" height="40">
- <img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="auto" height="40">
-  <img src="https://cdn.cdnlogo.com/logos/r/21/react.svg" width="auto" height="40">
-  <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="auto" height="40">
+  <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40" hspace="10" vspace="10">
+  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="auto" height="40" hspace="10" vspace="10">
+ <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="auto" height="40" hspace="10" vspace="10">
+  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" width="auto" height="40" hspace="10" vspace="10">
+ <img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="auto" height="40" hspace="10" vspace="10">
+  <img src="https://cdn.cdnlogo.com/logos/r/21/react.svg" width="auto" height="40" hspace="10" vspace="10">
+  <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="auto" height="40" hspace="10" vspace="10">
   
   
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
