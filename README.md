@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40">
+  <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40"  hspace="20" vspace="20">
   <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="auto" height="40">
  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" width="auto" height="40">
