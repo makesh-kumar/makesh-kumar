@@ -2,8 +2,11 @@
 <h3 align="center">Frontend developer</h3>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/makesh-kumar/"><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/makesh"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>
+
+  <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg"></a>
+  <a href="https://cdnlogo.com/logo/wordmark-black-medium_50028.html"><img src="https://cdn.cdnlogo.com/logos/w/21/wordmark-black-medium.svg"></a>
+<a href="https://cdnlogo.com/logo/twitter_38383.html"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"></a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=makesh-kumar" alt="sadanandpai" /></p>
 </div>
