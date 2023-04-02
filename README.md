@@ -3,13 +3,12 @@
 <!-- https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif -->
 
 <h1 align="center">Hi <img align="center" src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="35" height="35"/>, I'm Makesh</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <div align=center style="display: flex; align-items: center; justify-content: end; gap: 10px">
-<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30" hspace="10" vspace="10"></a>
-  <a href="https://cdnlogo.com/logo/codepen-icon_12685.html"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30" hspace="10" vspace="10"></a>
-<a href="https://cdnlogo.com/logo/monogram-medium_42992.html"><img src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" width="30" hspace="10" vspace="10"></a>
-  <a href="https://cdnlogo.com/logo/twitter_38383.html"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="30" hspace="10" vspace="10"></a>
+<a href="https://linkedin.com/in/makesh-kumar/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30" hspace="10" vspace="10"></a>
+  <a href="https://codepen.io/makesh-kumar"><img src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" width="30" hspace="10" vspace="10"></a>
+<a href="https://blog.makesh.in/"><img src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" width="30" hspace="10" vspace="10"></a>
   <br><br>
    <p><img src="https://komarev.com/ghpvc/?username=makesh-kumar" alt="makesh-kumar" /></p>
 
@@ -17,7 +16,8 @@
 
 
 - 👨‍💻 A passionate Javascript developer specializing in Angular and React with 3+ years of experience
-
+- 🤝 You can reach me over via [Linkedin](https://linkedin.com/in/makesh-kumar/),
+- ⚡ To read my blogs, checkout [blog.makesh.in](https://blog.makesh.in/)
 
 <br>
 
