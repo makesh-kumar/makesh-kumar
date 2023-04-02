@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="40" height="40"   vspace="30" />, I'm Makesh</h1>
+<h1 align="center">Hi <img align=center src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="40" height="40"   vspace="30" />, I'm Makesh</h1>
 <h3 align="center">Frontend developer</h3>
 
 <div align=center style="display: flex; align-items: center; justify-content: end; gap: 10px">
