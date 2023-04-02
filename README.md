@@ -21,7 +21,7 @@
   <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="auto" height="40">
  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="auto" height="40">
-  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg width="auto" height="40">
+  <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" width="auto" height="40">
  <img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/r/21/react.svg" width="auto" height="40">
   <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="auto" height="40">
