@@ -42,7 +42,7 @@
   
   <div align=center >
     <a href="https://github.com/makesh-kumar/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&theme=transparent" />
     </a>
 <a href="https://github.com/makesh-kumar/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five-vercel.app/api/top-langs/?username=makesh-kumar&theme=radical&hide=glsl,python" />
