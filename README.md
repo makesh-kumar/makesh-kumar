@@ -45,7 +45,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&theme=transparent" />
     </a>
 <a href="https://github.com/makesh-kumar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesh-kumar&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesh-kumar" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makesh-kumar&show_icons=true&theme=radical&line_height=27" alt="Makesh's github stats" />
